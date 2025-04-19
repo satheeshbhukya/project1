@@ -24,8 +24,7 @@ A comprehensive AI-powered tool for optimizing your LinkedIn content strategy th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/linkedin-content-creator-ai.git
-cd linkedin-content-creator-ai
+https://github.com/satheeshbhukya/project1.git
 ```
 
 2. Install required packages:
@@ -35,8 +34,9 @@ pip install pandas numpy matplotlib seaborn requests openai streamlit wordcloud 
 
 3. Run the application:
 ```bash
-streamlit run code1.py
+streamlit run code1.py 
 ```
+
 
 ## Usage
 
@@ -123,6 +123,10 @@ if __name__ == "__main__":
     
     # Run the Streamlit app
     streamlit_app()
+```
+## Deployed 
+```python
+http://localhost:8501/
 ```
 
 ## Contributing
