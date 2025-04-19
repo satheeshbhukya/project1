@@ -124,10 +124,6 @@ if __name__ == "__main__":
     # Run the Streamlit app
     streamlit_app()
 ```
-## Deployed 
-```python
-http://localhost:8501/
-```
 
 ## Contributing
 
